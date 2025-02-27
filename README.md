@@ -4,6 +4,13 @@ GasNote is an app that helps you store gas receipts, analyze costs, and automate
 
 ---
 
+## Download
+
+Get GasNote on the [App Store](https://apps.apple.com/ca/app/gasnote/id6742348082).
+
+
+---
+
 ## Features
 
 - **Receipt Logging:** Quickly add and organize gas receipts using camera and OCR.
